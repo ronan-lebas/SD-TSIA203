@@ -3,3 +3,5 @@ CNN/lenet.pth
 MLP/data
 RNN/Archive.zip
 RNN/*.mid
+video*
+*.pth
